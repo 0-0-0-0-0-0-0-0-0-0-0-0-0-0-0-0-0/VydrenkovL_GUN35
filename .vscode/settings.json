@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VydrenkovLGUN35.sln"
+    "dotnet.defaultSolution": "VydrenkovL_GUN35.sln"
 }
